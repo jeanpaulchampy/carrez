@@ -1,0 +1,25 @@
+{
+  "name": "carrez",
+  "version": "1.0.0",
+  "description": "tpWebapp",
+  "main": "carrez.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanpaulchampy/carrez.git"
+  },
+  "author": "",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanpaulchampy/carrez/issues"
+  },
+  "homepage": "https://github.com/jeanpaulchampy/carrez#readme"
+}
